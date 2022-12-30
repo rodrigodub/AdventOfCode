@@ -25,3 +25,9 @@ Started after the end of the advent calendar. Whatever...
 29/12/2022
 
 [Rucksack Reorganization](Day03/Day3.ipynb)
+
+### Day 4
+
+30/12/2022
+
+[Camp Cleanup](Day04/Day4.ipynb)
