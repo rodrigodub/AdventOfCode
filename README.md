@@ -33,3 +33,7 @@ Started after the end of the advent calendar. Whatever...
 30/12/2022 : 
 [Supply Stacks](Day05/Day5.ipynb)
 
+### Day 6
+
+31/12/2022 : 
+[Tuning Trouble](Day06/Day6.ipynb)
