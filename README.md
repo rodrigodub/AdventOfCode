@@ -40,8 +40,8 @@ Started after the end of the advent calendar. Whatever...
 
 ### Day 7
 
-DD/MM/2023 : 
-[   ](Day07/Day7.ipynb)
+31/12/2022 : 
+[No Space Left On Device](Day07/Day7.ipynb)
 
 ### Day 8
 
