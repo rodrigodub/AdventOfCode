@@ -45,13 +45,13 @@ Started after the end of the advent calendar. Whatever...
 
 ### Day 8
 
-DD/MM/2023 : 
-[   ](Day08/Day8.ipynb)
+01/01/2023 : 
+[Treetop Tree House](Day08/Day8.ipynb)
 
 ### Day 9
 
-DD/MM/2023 : 
-[   ](Day09/Day9.ipynb)
+02/01/2023 : 
+[Rope Bridge](Day09/Day9.ipynb)
 
 ### Day 10
 
